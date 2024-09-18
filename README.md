@@ -6,6 +6,6 @@ https://gbfs.citibikenyc.com/gbfs/en/station_status.json
 
 https://www.openstreetmap.org/
 
-
-contributors 
-Hannah Klerer hklerer 
+### Contributors
+* Hannah Klerer [hklerer](https://github.com/hklerer/)
+* Andrew Schwimmer [andrewoid](https://github.com/andrewoid/)
