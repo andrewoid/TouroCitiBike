@@ -5,3 +5,6 @@ https://gbfs.citibikenyc.com/gbfs/en/station_information.json
 https://gbfs.citibikenyc.com/gbfs/en/station_status.json
 
 https://www.openstreetmap.org/
+
+### Contributors
+* Andrew Schwimmer [andrewoid](https://github.com/andrewoid/)
