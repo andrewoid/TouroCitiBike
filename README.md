@@ -9,3 +9,13 @@ https://www.openstreetmap.org/
 ### Contributors
 * Hannah Klerer [hklerer](https://github.com/hklerer/)
 * Andrew Schwimmer [andrewoid](https://github.com/andrewoid/)
+
+
+### TODO
+* Retrieve StationInfo from CitiBikeService
+* Retrieve StationStatus from CitiBikeService
+* Given a StationInfo, find the corresponding StationStatus from a List
+* Given a Lat/Lon, find the StationInfo closest to you from a List
+* Implement OpenStreetMap with Swing using
+  * https://github.com/msteiger/jxmapviewer2
+
