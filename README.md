@@ -9,6 +9,9 @@ https://www.openstreetmap.org/
 ### Contributors
 * Hannah Klerer [hklerer](https://github.com/hklerer/)
 * Andrew Schwimmer [andrewoid](https://github.com/andrewoid/)
+* Yaffa Levy [YaffaLevy](https://github.com/YaffaLevy)
+* Nicole Mandel [NMandel527](https://github.com/NMandel527/)
+* Leora Bennett [LeoraBennett](https://github.com/LeoraBennett)
 
 
 ### TODO
