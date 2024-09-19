@@ -3,21 +3,21 @@ package touro.citibike;
 public class StationInfo {
 
     String stationId;
-    private double latitude;
-    private double longitude;
+    private double lat;
+    private double lon;
 
     public StationInfo(double latitude, double longitude) {
 
-        this.latitude = latitude;
-        this.longitude = longitude;
+        this.lat = latitude;
+        this.lon = longitude;
     }
 
     public double getLatitude() {
-        return latitude;
+        return lat;
     }
 
     public double getLongitude() {
-        return longitude;
+        return lon;
     }
 
 
