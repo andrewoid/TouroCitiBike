@@ -11,7 +11,7 @@ https://www.openstreetmap.org/
 * Andrew Schwimmer [andrewoid](https://github.com/andrewoid/)
 * Yaffa Levy [YaffaLevy](https://github.com/YaffaLevy)
 * Nicole Mandel [NMandel527](https://github.com/NMandel527/)
-* Leora Bennet [LeoraBennett](https://github.com/LeoraBennett)
+* Leora Bennett [LeoraBennett](https://github.com/LeoraBennett)
 
 
 ### TODO
